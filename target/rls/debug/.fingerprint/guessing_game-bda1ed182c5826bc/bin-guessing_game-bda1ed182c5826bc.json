@@ -1,0 +1,1 @@
+{"rustc":16691645817143570650,"features":"[]","target":8002721190828833516,"profile":14119667493710126711,"deps":[["rand v0.3.17",4997390033403153225]],"local":[{"MtimeBased":[[1510081015,606185246],"/home/david/Rust/projects/guessing_game/target/rls/debug/.fingerprint/guessing_game-bda1ed182c5826bc/dep-bin-guessing_game-bda1ed182c5826bc"]}],"rustflags":["--error-format=json"]}
